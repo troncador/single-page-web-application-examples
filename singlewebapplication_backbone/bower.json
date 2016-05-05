@@ -1,0 +1,21 @@
+{
+  "name": "backbone single-web-application",
+  "version": "0.0.1",
+  "authors": [
+    "Benjamín Almarza <benjamin.almarza@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.3",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+  }
+}

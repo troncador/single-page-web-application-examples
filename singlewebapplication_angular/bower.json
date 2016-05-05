@@ -1,0 +1,21 @@
+{
+  "name": "angular single-web-application",
+  "version": "0.0.1",
+  "authors": [
+    "Benjamín Almarza <benjamin.almarza@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.5",
+    "angular": "^1.5.5",
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6"
+  }
+}
